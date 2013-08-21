@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project default="javadoc">
+    <target name="javadoc">
+        <javadoc access="public" additionalparam="-bootclasspath C:\Dev\sdk\platforms\android-17\android.jar -noqualifier all" author="true" classpath="libs/android-support-v4.jar" destdir="doc" nodeprecated="false" nodeprecatedlist="false" noindex="false" nonavbar="false" notree="false" packagenames="net.cieolib.cieo" source="1.7" sourcepath="src;gen" splitindex="true" use="true" version="true"/>
+    </target>
+</project>
