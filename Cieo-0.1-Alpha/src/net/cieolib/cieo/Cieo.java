@@ -26,7 +26,6 @@ import android.widget.TextView;
  * @version 0.1
  * @since 0.1
  */
-// Push Test
 public class Cieo {
 	private Context context;
 	private String text;
